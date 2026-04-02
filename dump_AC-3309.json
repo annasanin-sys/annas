@@ -1,0 +1,254 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "id": "14293",
+  "self": "https://healthworks.atlassian.net/rest/api/3/issue/14293",
+  "key": "AC-3309",
+  "fields": {
+    "statuscategorychangedate": "2025-12-16T16:00:27.492-0500",
+    "issuetype": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/issuetype/10003",
+      "id": "10003",
+      "description": "Subtasks track small pieces of work that are part of a larger task.",
+      "iconUrl": "https://healthworks.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+      "name": "Subtask",
+      "subtask": true,
+      "avatarId": 10316,
+      "entityId": "d5c42c86-eaf7-4fd8-97b7-91e810f6fabe",
+      "hierarchyLevel": -1
+    },
+    "parent": {
+      "id": "14292",
+      "key": "AC-3308",
+      "self": "https://healthworks.atlassian.net/rest/api/3/issue/14292",
+      "fields": {
+        "summary": "Payroll 12/31/25",
+        "status": {
+          "self": "https://healthworks.atlassian.net/rest/api/3/status/10000",
+          "description": "",
+          "iconUrl": "https://healthworks.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://healthworks.atlassian.net/rest/api/3/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "priority": {
+          "self": "https://healthworks.atlassian.net/rest/api/3/priority/3",
+          "iconUrl": "https://healthworks.atlassian.net/images/icons/priorities/medium_new.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "issuetype": {
+          "self": "https://healthworks.atlassian.net/rest/api/3/issuetype/10001",
+          "id": "10001",
+          "description": "Tasks track small, distinct pieces of work.",
+          "iconUrl": "https://healthworks.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+          "name": "Task",
+          "subtask": false,
+          "avatarId": 10318,
+          "entityId": "0c2889d5-06b7-4015-a0e5-d56fed289685",
+          "hierarchyLevel": 0
+        }
+      }
+    },
+    "components": [],
+    "timespent": null,
+    "customfield_10050": null,
+    "timeoriginalestimate": null,
+    "project": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/project/10000",
+      "id": "10000",
+      "key": "AC",
+      "name": "Accounting",
+      "projectTypeKey": "software",
+      "simplified": true,
+      "avatarUrls": {
+        "48x48": "https://healthworks.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+        "24x24": "https://healthworks.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+        "16x16": "https://healthworks.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+        "32x32": "https://healthworks.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+      },
+      "projectCategory": {
+        "self": "https://healthworks.atlassian.net/rest/api/3/projectCategory/10001",
+        "id": "10001",
+        "description": "Payroll",
+        "name": "Payroll"
+      }
+    },
+    "description": null,
+    "fixVersions": [],
+    "aggregatetimespent": null,
+    "statusCategory": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/statuscategory/2",
+      "id": 2,
+      "key": "new",
+      "colorName": "blue-gray",
+      "name": "To Do"
+    },
+    "resolution": null,
+    "timetracking": {},
+    "customfield_10015": null,
+    "security": null,
+    "attachment": [],
+    "aggregatetimeestimate": null,
+    "resolutiondate": null,
+    "workratio": -1,
+    "summary": "CLONE - BB checklist",
+    "issuerestriction": {
+      "issuerestrictions": {},
+      "shouldDisplay": true
+    },
+    "watches": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/issue/AC-3309/watchers",
+      "watchCount": 1,
+      "isWatching": true
+    },
+    "lastViewed": "2025-12-24T12:38:20.471-0500",
+    "creator": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/user?accountId=5fe77c4191bb2e0108776bb4",
+      "accountId": "5fe77c4191bb2e0108776bb4",
+      "emailAddress": "asanina@healthworksfitness.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "24x24": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "16x16": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "32x32": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png"
+      },
+      "displayName": "Anya Sanina",
+      "active": true,
+      "timeZone": "America/New_York",
+      "accountType": "atlassian"
+    },
+    "subtasks": [],
+    "created": "2025-12-16T16:00:27.180-0500",
+    "customfield_10021": null,
+    "reporter": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/user?accountId=5fe77c4191bb2e0108776bb4",
+      "accountId": "5fe77c4191bb2e0108776bb4",
+      "emailAddress": "asanina@healthworksfitness.com",
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "24x24": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "16x16": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png",
+        "32x32": "https://secure.gravatar.com/avatar/6b3c3737ffc68830e2c34e075dbb1912?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-3.png"
+      },
+      "displayName": "Anya Sanina",
+      "active": true,
+      "timeZone": "America/New_York",
+      "accountType": "atlassian"
+    },
+    "aggregateprogress": {
+      "progress": 0,
+      "total": 0
+    },
+    "priority": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/priority/3",
+      "iconUrl": "https://healthworks.atlassian.net/images/icons/priorities/medium_new.svg",
+      "name": "Medium",
+      "id": "3"
+    },
+    "labels": [
+      "export"
+    ],
+    "environment": null,
+    "customfield_10019": "0|i00hlv:",
+    "timeestimate": null,
+    "aggregatetimeoriginalestimate": null,
+    "versions": [],
+    "duedate": null,
+    "progress": {
+      "progress": 0,
+      "total": 0
+    },
+    "issuelinks": [
+      {
+        "id": "10971",
+        "self": "https://healthworks.atlassian.net/rest/api/3/issueLink/10971",
+        "type": {
+          "id": "10001",
+          "name": "Cloners",
+          "inward": "is cloned by",
+          "outward": "clones",
+          "self": "https://healthworks.atlassian.net/rest/api/3/issueLinkType/10001"
+        },
+        "outwardIssue": {
+          "id": "14069",
+          "key": "AC-3286",
+          "self": "https://healthworks.atlassian.net/rest/api/3/issue/14069",
+          "fields": {
+            "summary": "BB checklist",
+            "status": {
+              "self": "https://healthworks.atlassian.net/rest/api/3/status/10000",
+              "description": "",
+              "iconUrl": "https://healthworks.atlassian.net/",
+              "name": "To Do",
+              "id": "10000",
+              "statusCategory": {
+                "self": "https://healthworks.atlassian.net/rest/api/3/statuscategory/2",
+                "id": 2,
+                "key": "new",
+                "colorName": "blue-gray",
+                "name": "To Do"
+              }
+            },
+            "priority": {
+              "self": "https://healthworks.atlassian.net/rest/api/3/priority/3",
+              "iconUrl": "https://healthworks.atlassian.net/images/icons/priorities/medium_new.svg",
+              "name": "Medium",
+              "id": "3"
+            },
+            "issuetype": {
+              "self": "https://healthworks.atlassian.net/rest/api/3/issuetype/10003",
+              "id": "10003",
+              "description": "Subtasks track small pieces of work that are part of a larger task.",
+              "iconUrl": "https://healthworks.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10316?size=medium",
+              "name": "Subtask",
+              "subtask": true,
+              "avatarId": 10316,
+              "entityId": "d5c42c86-eaf7-4fd8-97b7-91e810f6fabe",
+              "hierarchyLevel": -1
+            }
+          }
+        }
+      }
+    ],
+    "votes": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/issue/AC-3309/votes",
+      "votes": 0,
+      "hasVoted": false
+    },
+    "comment": {
+      "comments": [],
+      "self": "https://healthworks.atlassian.net/rest/api/3/issue/14293/comment",
+      "maxResults": 0,
+      "total": 0,
+      "startAt": 0
+    },
+    "assignee": null,
+    "worklog": {
+      "startAt": 0,
+      "maxResults": 20,
+      "total": 0,
+      "worklogs": []
+    },
+    "updated": "2025-12-22T08:27:20.688-0500",
+    "status": {
+      "self": "https://healthworks.atlassian.net/rest/api/3/status/10000",
+      "description": "",
+      "iconUrl": "https://healthworks.atlassian.net/",
+      "name": "To Do",
+      "id": "10000",
+      "statusCategory": {
+        "self": "https://healthworks.atlassian.net/rest/api/3/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "To Do"
+      }
+    }
+  }
+}

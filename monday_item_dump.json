@@ -1,0 +1,53 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "10847888490",
+        "name": "[AC-3364] CLONE - incentive trip",
+        "updates": [
+          {
+            "id": "4777723879",
+            "body": "**Synced Description:**<br>From: Mike LavoieTo: Anya Sanina Stefanie Miller Subject: incentive tripSent: December 11, 2025, 14:10 PM, -05:00<br>I\u2019ve adjusted the incentive trip to what we paid.<br>Do not make an incentive trip accrual in December.<br>Any transactions that go thru payroll related to the incentive trip should go to 100-5195.<br>Thanks<br>Mike",
+            "created_at": "2025-12-24T15:56:19.000Z"
+          }
+        ],
+        "column_values": [
+          {
+            "id": "person",
+            "text": "",
+            "type": "people",
+            "value": null
+          },
+          {
+            "id": "status",
+            "text": "To Do",
+            "type": "status",
+            "value": "{\"index\":5,\"changed_at\":\"2025-12-24T15:19:59.531Z\"}"
+          },
+          {
+            "id": "date0",
+            "text": "",
+            "type": "date",
+            "value": null
+          },
+          {
+            "id": "text_mkyyw0bk",
+            "text": "- [ ] Item 1\n- [x] Item 2",
+            "type": "text",
+            "value": "\"- [ ] Item 1\\n- [x] Item 2\""
+          },
+          {
+            "id": "text_mkyyp63e",
+            "text": "",
+            "type": "text",
+            "value": null
+          }
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "3d2cc112-ebdf-94c8-8409-146f1785d5ca"
+  },
+  "account_id": 8598175
+}
